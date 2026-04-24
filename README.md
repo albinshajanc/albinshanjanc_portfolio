@@ -3,12 +3,12 @@
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║        █████╗ ██╗      ██████╗ ██╗███╗   ██╗                 ║
-║       ██╔══██╗██║     ██╔══██╗██║████╗  ██║                  ║
-║       ███████║██║     ██████╔╝██║██╔██╗ ██║                  ║
-║       ██╔══██║██║     ██╔══██╗██║██║╚██╗██║                  ║
-║       ██║  ██║███████╗██████╔╝██║██║ ╚████║                  ║
-║       ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝                 ║
+║        █████╗  ██╗      ██████╗  ██╗ ███╗   ██╗               ║
+║       ██╔══██╗ ██║      ██╔══██╗ ██║ ████╗  ██║               ║
+║       ███████║ ██║      ██████╔╝ ██║ ██╔██╗ ██║               ║
+║       ██╔══██║ ██║      ██╔══██╗ ██║ ██║╚██╗██║               ║
+║       ██║  ██║ ███████╗ ██████╔╝ ██║ ██║ ╚████║               ║
+║       ╚═╝  ╚═╝ ╚══════╝ ╚═════╝  ╚═╝ ╚═╝  ╚═══╝               ║
 ║                  S H A J A N   C                              ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -16,29 +16,11 @@
 ### `>> ECE Graduate · Embedded Systems · IoT · Edge AI · PCB Design`
 
 [![Email](https://img.shields.io/badge/Gmail-albinshajan378%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albinshajan378@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Albin_Shajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/albinshajan)
-[![X](https://img.shields.io/badge/X-@albinshajan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/albinshajan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Albin_Shajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albin-shajan-23vb/)
+[![X](https://img.shields.io/badge/X-@albinshajan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AlbinShajanC)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-7F22FE?style=for-the-badge&logo=firefox&logoColor=white)](https://albinshajan.github.io)
 
-</div>
 
----
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│    "I don't just write code. I make silicon think."             │
-│                                                                 │
-│    Hardware Engineer  ·  Firmware Developer  ·  ML on Edge     │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
 
 ## `// WHO AM I`
 
@@ -46,7 +28,7 @@ I'm **Albin Shajan C**, an Electronics & Communication Engineering graduate from
 
 I design circuits, write firmware, and deploy machine learning models on resource-constrained microcontrollers. My world lives close to the metal — between the oscilloscope trace and the inference output, between a schematic and a working prototype.
 
-Currently pursuing my **B.Tech at Vidya Academy of Science & Technology** under APJ Abdul Kalam Technological University, graduating **May 2026**.
+Completed my **B.Tech at Vidya Academy of Science & Technology** under APJ Abdul Kalam Technological University, graduating **May 2026**.
 
 ---
 
@@ -110,18 +92,17 @@ Currently pursuing my **B.Tech at Vidya Academy of Science & Technology** under 
 ```
 FIRMWARE & LANGUAGES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Embedded C/C++    ████████████████████  Expert
+  Embedded C/C++    ████████████░░░░░░░░  Proficient
   Python            ████████████████░░░░  Proficient
-  Arduino           ████████████████████  Expert
-  MicroPython       ██████████████░░░░░░  Intermediate
+  Arduino           ████████████████░░░░  Proficient
   Verilog HDL       ████████████░░░░░░░░  Intermediate
 
 HARDWARE & PROTOCOLS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ESP32 / ARM       ████████████████████  Expert
-  UART / SPI / I2C  ████████████████████  Expert
-  AVR / 8051        ██████████████░░░░░░  Intermediate
-  FPGA              ████████████░░░░░░░░  Intermediate
+  ESP32             █████████████        Intermediate
+  UART / SPI / I2C  ███████████          Intermediate
+  AVR / 8051        █████████████        Intermediate
+  FPGA              █████                Intermediate
   Analog Electronics████████████████░░░░  Proficient
 
 PCB & DESIGN TOOLS
@@ -240,11 +221,7 @@ EDGE AI & IoT
 
 ---
 
-*"The best firmware is the one that runs quietly, accurately, and forever."*
 
-</div>
-
----
 
 <div align="center">
 
