@@ -18,7 +18,7 @@
 [![Email](https://img.shields.io/badge/Gmail-albinshajan378%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albinshajan378@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Albin_Shajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albin-shajan-23vb/)
 [![X](https://img.shields.io/badge/X-@albinshajan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AlbinShajanC)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-7F22FE?style=for-the-badge&logo=firefox&logoColor=white)](https://albinshajan.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-7F22FE?style=for-the-badge&logo=firefox&logoColor=white)](https://albinshajanc.github.io/albinshanjanc_portfolio/)
 
 
 
